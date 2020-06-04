@@ -1,0 +1,1 @@
+console.log('It\'s not so hard init?');
